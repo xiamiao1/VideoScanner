@@ -8,3 +8,5 @@ dist/
 *.log
 *.html
 *.class
+*.js
+img/
